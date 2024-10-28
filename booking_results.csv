@@ -1,0 +1,108 @@
+﻿PropertyId,Property_BookingId,BookingCreatedDate,ArrivalDate,DepartureDate,Adults,Children,Infants,Persons,NumNights,Channel,RoomRate,CleaningFee,Revenue,ADR,TouristTax,TotalPaid,RealProperty,Capacity,Square,PropertyType,NumBedrooms,ReadyDate,NameProperty,Ubication,Rating
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,182,0,182,182,1,183,Yes,1,,Hotel,1,2024-11-20,Tembo Barcelona,Barcelona,8.8
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,135,0,135,135,5,140,Yes,1,,Hotel,1,2024-11-20,Vasanta powered by Sonder,Barcelona,8.1
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,15,0,15,15,6,21,Yes,1,,Hotel,1,2024-11-20,Generator Barcelona,Barcelona,7.7
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,278,0,278,278,34,312,Yes,1,,Hotel,1,2024-11-20,"Via Sants Hotel Barcelona, Tapestry Collection By Hilton",Barcelona,8.4
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,17,0,17,17,6,23,Yes,1,,Hotel,1,2024-11-20,St Christopher's Inn Barcelona,Barcelona,7.9
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,19,0,19,19,6,25,Yes,1,,Hotel,1,2024-11-20,Ten To Go Hostel,Barcelona,8.9
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,14,0,14,14,6,20,Yes,1,,Hotel,1,2024-11-20,Dream Cube Hostel,Barcelona,7.6
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,20,0,20,20,6,26,Yes,1,,Hotel,1,2024-11-20,Casa Barcelo Hostel Barcelona,Barcelona,7.8
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,30,0,30,30,6,36,Yes,1,,Hotel,1,2024-11-20,Yeah Barcelona Hostel,Barcelona,9.0
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,54,0,54,54,6,60,Yes,1,,Hotel,1,2024-11-20,Hotel Peninsular,Barcelona,6.9
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,21,0,21,21,6,27,Yes,1,,Hotel,1,2024-11-20,Kabul Party Hostel Barcelona,Barcelona,8.4
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,70,0,70,70,6,76,Yes,1,,Hotel,1,2024-11-20,Hostal Lausanne,Barcelona,8.3
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,116,0,116,116,6,122,Yes,1,,Hotel,1,2024-11-20,Magatzem 128,Barcelona,8.8
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,45,0,45,45,6,51,Yes,1,,Hotel,1,2024-11-20,Pensión Peiró,Barcelona,8.0
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,108,0,108,108,6,114,Yes,1,,Hotel,1,2024-11-20,Park Hotel,Barcelona,8.4
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,130,0,130,130,6,136,Yes,1,,Hotel,1,2024-11-20,Ciutat Vella,Barcelona,8.1
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,106,0,106,106,15,121,Yes,1,,Hotel,1,2024-11-20,Catalunya,Barcelona,8.1
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,144,0,144,144,6,150,Yes,1,,Hotel,1,2024-11-20,Sunotel Club Central,Barcelona,8.1
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,25,0,25,25,6,31,Yes,1,,Hotel,1,2024-11-20,Free Hostels Barcelona,Barcelona,8.1
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,134,0,134,134,6,140,Yes,1,,Hotel,1,2024-11-20,La Ciudadela,Barcelona,8.7
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,95,0,95,95,6,101,Yes,1,,Hotel,1,2024-11-20,Hotel Via Augusta,Barcelona,8.4
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,135,0,135,135,6,141,Yes,1,,Hotel,1,2024-11-20,Exe Cristal Palace,Barcelona,7.6
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,118,0,118,118,6,124,Yes,1,,Hotel,1,2024-11-20,Acta Antibes,Barcelona,8.5
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,110,0,110,110,6,116,Yes,1,,Hotel,1,2024-11-20,Axel TWO Barcelona 4 Sup - Adults Only,Barcelona,8.3
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,21,0,21,21,6,27,Yes,1,,Hotel,1,2024-11-20,The Loft Hostel Barcelona La Pedrera,Barcelona,8.2
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,27,0,27,27,6,33,Yes,1,,Hotel,1,2024-11-20,TOC Hostel Barcelona,Barcelona,8.5
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,132,0,132,132,18,150,Yes,1,,Hotel,1,2024-11-20,Barcelona Century Hotel,Barcelona,8.4
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,20,0,20,20,6,26,Yes,1,,Hotel,1,2024-11-20,Diagonal House Hostel,Barcelona,6.9
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,18,0,18,18,6,24,Yes,1,,Hotel,1,2024-11-20,Urbany Hostel BCN GO!,Barcelona,7.0
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,19,0,19,19,6,25,Yes,1,,Hotel,1,2024-11-20,Hola Hostal Eixample,Barcelona,8.1
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,80,0,80,80,6,86,Yes,1,,Hotel,1,2024-11-20,Hostal Paris,Barcelona,7.5
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,16,0,16,16,6,22,Yes,1,,Hotel,1,2024-11-20,Mellow Barcelona,Barcelona,6.0
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,16,0,16,16,6,22,Yes,1,,Hotel,1,2024-11-20,Safestay Barcelona Gothic,Barcelona,7.5
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,65,0,65,65,6,71,Yes,1,,Hotel,1,2024-11-20,Hostal Nuevo Colon,Barcelona,7.5
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,160,0,160,160,6,166,Yes,1,,Hotel,1,2024-11-20,Catalonia Diagonal Centro,Barcelona,8.5
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,159,0,159,159,6,165,Yes,1,,Hotel,1,2024-11-20,Hotel Lleó,Barcelona,8.2
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,131,0,131,131,6,137,Yes,1,,Hotel,1,2024-11-20,Hotel Nouvel,Barcelona,8.1
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,25,0,25,25,6,31,Yes,1,,Hotel,1,2024-11-20,360 Hostel Borne,Barcelona,8.3
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,110,0,110,110,6,116,Yes,1,,Hotel,1,2024-11-20,Catalonia Sagrada Familia,Barcelona,8.2
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,320,0,320,320,38,358,Yes,1,,Hotel,1,2024-11-20,AC Hotel Diagonal L'Illa by Marriott,Barcelona,8.7
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,235,0,235,235,8,243,Yes,1,,Hotel,1,2024-11-20,Grand Hyatt Barcelona,Barcelona,8.7
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,29,0,29,29,6,35,Yes,1,,Hotel,1,2024-11-20,Bed and Bike Barcelona,Barcelona,8.6
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,176,0,176,176,6,182,Yes,1,,Hotel,1,2024-11-20,Barcelona Century Hotel,Barcelona,8.4
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,115,0,115,115,6,121,Yes,1,,Hotel,1,2024-11-20,Hostal Operaramblas,Barcelona,8.7
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,140,0,140,140,6,146,Yes,1,,Hotel,1,2024-11-20,Hotel Roger de Llúria,Barcelona,8.4
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,17,0,17,17,6,23,Yes,1,,Hotel,1,2024-11-20,Ten To Go Hostel,Barcelona,8.9
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,16,0,16,16,6,22,Yes,1,,Hotel,1,2024-11-20,St Christopher's Inn Barcelona,Barcelona,7.9
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,13,0,13,13,6,19,Yes,1,,Hotel,1,2024-11-20,Dream Cube Hostel,Barcelona,7.6
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,28,0,28,28,6,34,Yes,1,,Hotel,1,2024-11-20,Yeah Barcelona Hostel,Barcelona,9.0
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,64,0,64,64,6,70,Yes,1,,Hotel,1,2024-11-20,Hostal Lausanne,Barcelona,8.3
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,50,0,50,50,6,56,Yes,1,,Hotel,1,2024-11-20,Hotel Peninsular,Barcelona,6.9
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,92,0,92,92,6,98,Yes,1,,Hotel,1,2024-11-20,Hostal Baler,Barcelona,7.9
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,123,0,123,123,6,129,Yes,1,,Hotel,1,2024-11-20,La Ciudadela,Barcelona,8.7
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,18,0,18,18,6,24,Yes,1,,Hotel,1,2024-11-20,Onefam Les Corts,Barcelona,9.0
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,25,0,25,25,6,31,Yes,1,,Hotel,1,2024-11-20,TOC Hostel Barcelona,Barcelona,8.5
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,52,0,52,52,6,58,Yes,1,,Hotel,1,2024-11-20,Hostal Barcelona,Barcelona,6.9
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,68,0,68,68,6,74,Yes,1,,Hotel,1,2024-11-20,Hotel El Call,Barcelona,7.6
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,106,0,106,106,6,112,Yes,1,,Hotel,1,2024-11-20,Hostal Operaramblas,Barcelona,8.7
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,20,0,20,20,6,26,Yes,1,,Hotel,1,2024-11-20,Ten To Go Hostel,Barcelona,8.9
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,84,0,84,84,6,90,Yes,1,,Hotel,1,2024-11-20,Live & Dream,Barcelona,8.3
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,19,0,19,19,6,25,Yes,1,,Hotel,1,2024-11-20,St Christopher's Inn Barcelona,Barcelona,7.9
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,299,0,299,299,6,305,Yes,1,,Hotel,1,2024-11-20,Hotel Royal Passeig de Gracia,Barcelona,8.6
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,124,0,124,124,6,130,Yes,1,,Hotel,1,2024-11-20,"Casa Consell Gran Via, Guest House",Barcelona,8.6
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,63,0,63,63,6,69,Yes,1,,Hotel,1,2024-11-20,Hostal Hera,Barcelona,7.8
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,105,0,105,105,13,118,Yes,1,,Hotel,1,2024-11-20,Hotel Paseo de Gracia,Barcelona,8.8
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,109,0,109,109,6,115,Yes,1,,Hotel,1,2024-11-20,Hostal Oliva,Barcelona,8.8
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,409,0,409,409,8,417,Yes,1,,Hotel,1,2024-11-20,Ohla Barcelona,Barcelona,9.0
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,133,0,133,133,6,139,Yes,1,,Hotel,1,2024-11-20,Blue Barcelona,Barcelona,8.1
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,109,0,109,109,6,115,Yes,1,,Hotel,1,2024-11-20,Park Hotel,Barcelona,8.4
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,136,0,136,136,57,193,Yes,1,,Hotel,1,2024-11-20,C211 Barcelona Apartments,Barcelona,8.8
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,135,0,135,135,6,141,Yes,1,,Hotel,1,2024-11-20,Hostal Lleida,Barcelona,8.3
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,124,0,124,124,12,136,Yes,1,,Hotel,1,2024-11-20,Ramblas Apartments,Barcelona,8.7
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,251,0,251,251,32,283,Yes,1,,Hotel,1,2024-11-20,Mercedes Heritage Apartments,Barcelona,8.6
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,252,0,252,252,6,258,Yes,1,,Hotel,1,2024-11-20,B Hotel,Barcelona,8.6
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,216,0,216,216,6,222,Yes,1,,Hotel,1,2024-11-20,Hotel Paxton Barcelona,Barcelona,8.7
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,333,0,333,333,6,339,Yes,1,,Hotel,1,2024-11-20,Hotel 1898,Barcelona,8.9
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,162,0,162,162,6,168,Yes,1,,Hotel,1,2024-11-20,Hotel Gótico,Barcelona,8.4
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,302,0,302,302,6,308,Yes,1,,Hotel,1,2024-11-20,Casa Elliot by Bondia Hotel Group,Barcelona,8.8
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,162,0,162,162,16,178,Yes,1,,Hotel,1,2024-11-20,TOC Hotel Las Ramblas,Barcelona,8.4
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,363,0,363,363,6,369,Yes,1,,Hotel,1,2024-11-20,Hotel Casa Bonay,Barcelona,9.0
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,434,0,434,434,8,442,Yes,1,,Hotel,1,2024-11-20,Ohla Eixample,Barcelona,9.0
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,270,0,270,270,27,297,Yes,1,,Hotel,1,2024-11-20,Cosmo Apartments Consell de Cent - Plaza Universitat,Barcelona,8.4
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,254,0,254,254,7,261,Yes,1,,Hotel,1,2024-11-20,Aspasios Rambla Catalunya Apartments,Barcelona,8.7
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,112,0,112,112,11,123,Yes,1,,Hotel,1,2024-11-20,Hostal Las Flores Ramblas,Barcelona,8.3
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,182,0,182,182,7,189,Yes,1,,Hotel,1,2024-11-20,TSA La Rambla,Barcelona,9.1
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,134,0,134,134,6,140,Yes,1,,Hotel,1,2024-11-20,Catalunya,Barcelona,8.1
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,85,0,85,85,6,91,Yes,1,,Hotel,1,2024-11-20,El Jardi,Barcelona,7.6
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,25,0,25,25,6,31,Yes,1,,Hotel,1,2024-11-20,Black Swan Hostel,Barcelona,8.6
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,20,0,20,20,6,26,Yes,1,,Hotel,1,2024-11-20,Arc House Gracia,Barcelona,5.8
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,20,0,20,20,6,26,Yes,1,,Hotel,1,2024-11-20,Onefam Les Corts,Barcelona,9.0
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,21,0,21,21,6,27,Yes,1,,Hotel,1,2024-11-20,Barcelona & You Hostel Sagrada Familia,Barcelona,8.1
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,190,0,190,190,6,196,Yes,1,,Hotel,1,2024-11-20,Room Mate Carla,Barcelona,8.6
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,100,0,100,100,6,106,Yes,1,,Hotel,1,2024-11-20,Hotel Condado,Barcelona,8.4
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,100,0,100,100,6,106,Yes,1,,Hotel,1,2024-11-20,Hostal Baler,Barcelona,7.9
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,120,0,120,120,6,126,Yes,1,,Hotel,1,2024-11-20,The Hotel 592 - Adults Only,Barcelona,8.4
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,70,0,70,70,5,75,Yes,1,,Hotel,1,2024-11-20,Somnio Hostels,Barcelona,8.1
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,21,0,21,21,6,27,Yes,1,,Hotel,1,2024-11-20,Unite Hostel Barcelona,Barcelona,8.1
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,17,0,17,17,6,23,Yes,1,,Hotel,1,2024-11-20,Hola Hostal Eixample,Barcelona,8.1
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,17,0,17,17,6,23,Yes,1,,Hotel,1,2024-11-20,Urbany Hostel BCN GO!,Barcelona,7.0
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,15,0,15,15,6,21,Yes,1,,Hotel,1,2024-11-20,Mellow Barcelona,Barcelona,6.0
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,19,0,19,19,6,25,Yes,1,,Hotel,1,2024-11-20,Barcelona & You Hostel Sagrada Familia,Barcelona,8.1
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,21,0,21,21,6,27,Yes,1,,Hotel,1,2024-11-20,360 Hostel Centro,Barcelona,8.4
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,17,0,17,17,6,23,Yes,1,,Hotel,1,2024-11-20,HelloBCN Youth Hostel Barcelona,Barcelona,8.0
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,74,0,74,74,6,80,Yes,1,,Hotel,1,2024-11-20,Hotel El Call,Barcelona,7.6
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,129,0,129,129,6,135,Yes,1,,Hotel,1,2024-11-20,Axel Hotel Barcelona - Adults Only,Barcelona,8.2
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,146,0,146,146,5,151,Yes,1,,Hotel,1,2024-11-20,Sonder La Casa del Sol,Barcelona,8.0
+,,2024-10-26,2024-11-20,2024-11-21,1,0,0,1,1,Booking.com,175,0,175,175,5,180,Yes,1,,Hotel,1,2024-11-20,Sonder Los Arcos,Barcelona,8.3
