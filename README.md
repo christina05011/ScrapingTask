@@ -1,7 +1,7 @@
 # Comentarios generales
 
 ## Configuración del proyecto
-- Se descargaron los datasets.
+- Se descargaron los datasets: 'Properties.csv' y 'Bookings.csv'.
 - Se creó una carpeta para almacenar archivos y nuevos datasets.
 
 ## Ejecución de scripts
